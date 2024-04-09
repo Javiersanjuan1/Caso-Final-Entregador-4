@@ -121,7 +121,7 @@ public class TextTools {
         }
     }
 
-    public stati void main(String[] args) {
+    public static vo main(String[] args) {
         SwingUtilities.invokeLater(() -> {
             new InteractiveScrollBar();
         });
