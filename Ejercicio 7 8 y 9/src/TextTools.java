@@ -4,7 +4,7 @@ import java.awt.event.*;
 import java.io.*;
 import java.util.*;
 
-public class TextTools {
+public cla TextTools {
 
     private static final Map<String, JFrame> documentWindows = new HashMap<>();
 
